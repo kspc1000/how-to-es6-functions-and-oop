@@ -8,7 +8,7 @@ Provided:
 - Some commented notes/explanations                                   
 - Resource links for optional self-reading/additional understanding                                                     
 
-To download a copy, click Code > Download ZIP
+To download a copy, click **Code** > **Download ZIP**
 > Reason to use `const` and `let` instead of `var` : https://javascript.info/var    
 
 <details>
