@@ -1,6 +1,6 @@
 /*
  * Function constructor
- * Classes are syntactic sugar (sweet syntax) for this functions and prototypal inheritance
+ * Classes are syntactic sugar (sweet syntax) for functions and prototypal inheritance
  * Read more at https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
  */
 
